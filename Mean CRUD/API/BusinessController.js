@@ -1,0 +1,5 @@
+
+exports.GetAll(id)
+{
+
+}
